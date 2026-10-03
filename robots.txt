@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-6172ed4dfa.lbuptni.cn/sitemap.xml
